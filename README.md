@@ -13,3 +13,15 @@ Hi! I'm Williams, a passionate blockchain developer specializing in Solana. This
 - Developed Solana smart contracts using the Anchor framework.
 - Built and deployed projects such as **SolQuest**.
 - Participated in hackathons like the **RiseIn 2024 Hackathon**.
+
+# Rust Journey
+<details>
+<summary>This section documents my journey in learning Rust, the foundation of my Solana development skills.</summary>  
+
+### Topics Covered
+- Variables and Functions
+- Ownership and Borrowing
+- Structs and Enums
+- Traits and Generics
+- Lifetimes and Error Handling
+</details>
