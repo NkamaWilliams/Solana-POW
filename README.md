@@ -14,7 +14,7 @@ Hi! I'm Williams, a passionate blockchain developer specializing in Solana. This
 - Participated in hackathons like the **RiseIn 2024 Hackathon**.
 
 # Rust Journey
-<details>
+<details open>
 <summary>This section documents my journey in learning Rust, the foundation of my Solana development skills.</summary>  
 
 ### Topics Covered
@@ -28,7 +28,7 @@ Hi! I'm Williams, a passionate blockchain developer specializing in Solana. This
 </details>
 
 # Solana Journey
-<details>
+<details open>
 <summary>This section documents my journey in learning and interacting with the Solana Blockchain</summary>  
 
 ## Learning The Basics
@@ -53,7 +53,7 @@ I also participated in the Turbin 3 Builders Cohort where I further developed my
 </details>
 
 # Projects
-<details>
+<details open>
   <summary>This section contains some of the Projects I have worked on during my journey</summary>
 
 ## **The Menagerie**  
