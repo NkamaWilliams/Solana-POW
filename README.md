@@ -23,6 +23,8 @@ Hi! I'm Williams, a passionate blockchain developer specializing in Solana. This
 - Structs and Enums
 - Traits and Generics
 - Lifetimes and Error Handling
+- ...and more
+- Work done can be found in [this repo](https://github.com/NkamaWilliams/rust)
 </details>
 
 # Solana Journey
