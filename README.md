@@ -3,9 +3,9 @@ Hi! I'm Williams, a passionate blockchain developer specializing in Solana. This
 
 ---
 ## Table of Contents
-1. [Rust](./rust-learning/README.md)
-2. [Solana](./solana-learning/README.md)
-3. [Projects](./projects)
+1. [Rust](#rust-journey)
+2. [Solana](#solana-journey)
+3. [Projects](#projects)
 
 ## Highlights
 - Learned Rust basics, including ownership, borrowing, lifetimes, and more.
@@ -67,6 +67,6 @@ A Solana-based lottery DApp designed for fun and interaction:
 - Guessing the correct number rewards them with the same amount wagered
 - Failure results in losing the wager
 
-  ## TODO: Build an application leveraging the SVM API
+## TODO: Build an application leveraging the SVM API
 </details>
 
